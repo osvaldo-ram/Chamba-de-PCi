@@ -7,12 +7,19 @@ El programa funciona a base de una librería random y variables con datos ya est
 Y finaliza imprimiendo la contraseña generada por el programa.
 
 ##Entradas:
+
 longitud (int)
+
 mayusculas(string)
+
 minusculas(string)
+
 numeros(string)
+
 simbolos(string)
+
 ##Salidas:
+
 contraseña(string)
 
 #1.Entrada:

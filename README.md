@@ -13,6 +13,7 @@ numeros(string)
 simbolos(string)
 ##Salidas:
 contraseña(string)
+
 #1.Entrada:
 1.1 Solicitar la longitud de la contraseña.
 1.2 Preguntar si desean incluir letras mayúsculas.
